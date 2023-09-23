@@ -1,0 +1,27 @@
+body {
+    background-color: #8a4981;
+    width: 200px;
+    padding: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: 7px;
+    color: #0c3a0f;
+    font-weight: 800;
+    background-color: #b9f6d8;
+    padding: 13px 13px;
+}
+
+p {
+    color: lightgrey;
+    margin-top: 22px;
+    font-family: serif;
+    font-weight: 500;
+    font-size: 19px;
+}
